@@ -1,2 +1,2 @@
 # pastelUI
- A competitive-based TF2 HUD and UI developed by me.
+ A competitive-based and highly-customizable UI developed for Team Fortress 2
